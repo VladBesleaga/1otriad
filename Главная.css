@@ -54,9 +54,11 @@
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
-    margin-top: 78px;
-    margin-right: 150px;
-    margin-left: -32px;
+    --animation-custom_in-translate_x: -300px;
+    --animation-custom_in-translate_y: 0px;
+    margin-top: 68px;
+    margin-right: 138px;
+    margin-left: -20px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 58px;

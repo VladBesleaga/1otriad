@@ -37776,9 +37776,15 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-menu-1 {
+    width: auto;
+    margin-top: 34px;
+    margin-right: -24px;
+  }
+
   .u-header .u-text-1 {
     width: auto;
-    margin: -31px 208px 48px -25px;
+    margin: -26px 208px 48px -25px;
   }
 }
  .u-footer {
